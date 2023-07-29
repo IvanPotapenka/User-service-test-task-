@@ -1,0 +1,10 @@
+databaseChangeLog:
+  - changeSet:
+      id: Dev-1
+      author: Potapenko
+  - include:
+      file: db/changelog/changeSet/001_create_table_users.yaml
+  - include:
+      file: db/changeLog/changeSet/002_create_table_roles.yaml
+  - include:
+      file: db/changeLog/changeSet/003_create_table_user_role.yaml

@@ -1,0 +1,29 @@
+databaseChangeLog:
+  - changeSet:
+      id: Dev-1
+      author: Potapenko
+      changes:
+        - createTable:
+            tableName: user_role
+            columns:
+              - column:
+                  name: id
+                  type: bigint
+                  autoIncrement: true
+                  constraints:
+                    primaryKey: true
+                    nullable: false
+              - column:
+                  name: user_id
+                  type: bigint
+                  constraints:
+                    foreignKeyName: user_id_fk
+                    referencedTableName: users
+                    referencedColumnNames: id
+              - column:
+                  name: role_id
+                  type: bigint
+                  constraints:
+                    foreignKeyName: role_id_fk
+                    referencedTableName: roles
+                    referencedColumnNames: id
