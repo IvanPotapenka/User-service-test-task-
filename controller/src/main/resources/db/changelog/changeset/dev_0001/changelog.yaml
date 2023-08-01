@@ -1,0 +1,18 @@
+databaseChangeLog:
+  - changeSet:
+      id: dev_0001
+      author: Potapenko
+
+  - include:
+      file: db/changeLog/changeSet/dev_0001/DDL/001_create_table_users.sql
+  - include:
+      file: db/changeLog/changeSet/dev_0001/DDL/002_create_table_roles.sql
+  - include:
+      file: db/changeLog/changeSet/dev_0001/DDL/003_create_table_user_role.sql
+
+  - include:
+      file: db/changeLog/changeSet/dev_0001/DML/001_insert_data_users.sql
+  - include:
+      file: db/changeLog/changeSet/dev_0001/DML/002_insert_data_roles.sql
+  - include:
+      file: db/changeLog/changeSet/dev_0001/DML/003_insert_data_user_role.sql

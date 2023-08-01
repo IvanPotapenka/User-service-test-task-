@@ -1,0 +1,5 @@
+databaseChangeLog:
+
+  - include:
+      file: db/changeLog/changeSet/dev_0001/changelog.yaml
+
