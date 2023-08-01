@@ -11,10 +11,10 @@ import java.util.List;
 @NoArgsConstructor
 @AllArgsConstructor
 public class UserCreationDto {
-
     private String firstName;
     private String middleName;
     private String surName;
     private String email;
     private List<RoleDto> roles = new ArrayList<>();
+
 }

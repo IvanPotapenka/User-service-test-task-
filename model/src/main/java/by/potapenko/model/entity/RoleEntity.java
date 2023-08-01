@@ -1,6 +1,6 @@
 package by.potapenko.model.entity;
 
-import by.potapenko.model.enam.UserRole;
+import by.potapenko.model.enam.Role;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;
@@ -36,7 +36,7 @@ public class RoleEntity {
 
     @Column(name = "role", length = 15, nullable = false)
     @Enumerated(EnumType.STRING)
-    private UserRole role;
+    private Role role;
 
     @Builder.Default
     @ManyToMany(mappedBy = "roles")

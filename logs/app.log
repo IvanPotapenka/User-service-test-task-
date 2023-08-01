@@ -1,0 +1,192 @@
+[INFO ] 2023-07-31 10:18:45.018 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 5524 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 10:18:45.026 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 10:18:45.027 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 10:18:49.070 [main] SpringApplication - Started SpringApplication in 4.673 seconds (process running for 5.833)
+[INFO ] 2023-07-31 10:24:40.069 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 2092 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 10:24:40.077 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 10:24:40.078 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 10:24:44.049 [main] SpringApplication - Started SpringApplication in 4.388 seconds (process running for 5.498)
+[INFO ] 2023-07-31 10:26:46.257 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 16352 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 10:26:46.264 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 10:26:46.265 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 10:26:50.650 [main] SpringApplication - Started SpringApplication in 4.854 seconds (process running for 6.238)
+[INFO ] 2023-07-31 10:27:11.858 [http-nio-8080-exec-2] UserController - User1was deleted!
+[INFO ] 2023-07-31 14:40:54.815 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 14020 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 14:40:54.822 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 14:40:54.823 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 14:40:58.857 [main] SpringApplication - Started SpringApplication in 4.423 seconds (process running for 5.564)
+[INFO ] 2023-07-31 14:44:13.007 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 7968 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 14:44:13.014 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 14:44:13.016 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 14:44:17.071 [main] SpringApplication - Started SpringApplication in 4.479 seconds (process running for 5.58)
+[INFO ] 2023-07-31 19:44:17.489 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 18788 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 19:44:17.496 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 19:44:17.497 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 19:44:21.331 [main] SpringApplication - Started SpringApplication in 4.272 seconds (process running for 5.54)
+[INFO ] 2023-07-31 19:44:36.853 [http-nio-8080-exec-1] UserController - User with id = 15 was deleted!
+[INFO ] 2023-07-31 19:45:10.929 [http-nio-8080-exec-5] UserController - User with id = 16 was deleted!
+[INFO ] 2023-07-31 19:46:08.507 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 8528 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 19:46:08.515 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 19:46:08.517 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 19:46:13.689 [main] SpringApplication - Started SpringApplication in 6.006 seconds (process running for 7.845)
+[INFO ] 2023-07-31 19:46:40.971 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 14132 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 19:46:40.979 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 19:46:40.980 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 19:46:45.663 [main] SpringApplication - Started SpringApplication in 5.174 seconds (process running for 6.717)
+[INFO ] 2023-07-31 19:47:59.003 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 15372 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 19:47:59.011 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 19:47:59.012 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 19:48:03.459 [main] SpringApplication - Started SpringApplication in 4.96 seconds (process running for 6.511)
+[INFO ] 2023-07-31 19:51:36.396 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 5224 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 19:51:36.408 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 19:51:36.410 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 19:51:41.443 [main] SpringApplication - Started SpringApplication in 5.564 seconds (process running for 7.44)
+[INFO ] 2023-07-31 19:52:53.085 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 11964 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 19:52:53.092 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 19:52:53.093 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 19:52:57.330 [main] SpringApplication - Started SpringApplication in 4.656 seconds (process running for 5.874)
+[INFO ] 2023-07-31 19:54:19.730 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 18688 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 19:54:19.740 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 19:54:19.741 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 19:54:25.106 [main] SpringApplication - Started SpringApplication in 5.824 seconds (process running for 7.621)
+[INFO ] 2023-07-31 19:55:40.435 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 16836 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 19:55:40.443 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 19:55:40.444 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 19:55:45.383 [main] SpringApplication - Started SpringApplication in 5.388 seconds (process running for 7.005)
+[INFO ] 2023-07-31 19:59:52.488 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 19648 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 19:59:52.496 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 19:59:52.497 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 19:59:56.881 [main] SpringApplication - Started SpringApplication in 4.794 seconds (process running for 6.239)
+[INFO ] 2023-07-31 20:02:07.443 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 3036 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 20:02:07.453 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 20:02:07.455 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 20:02:11.987 [main] SpringApplication - Started SpringApplication in 5.108 seconds (process running for 6.33)
+[INFO ] 2023-07-31 20:02:46.601 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 11964 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 20:02:46.609 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 20:02:46.611 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 20:02:51.039 [main] SpringApplication - Started SpringApplication in 4.885 seconds (process running for 6.429)
+[INFO ] 2023-07-31 20:04:23.947 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 21452 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 20:04:23.956 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 20:04:23.958 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 20:04:29.019 [main] SpringApplication - Started SpringApplication in 5.743 seconds (process running for 7.42)
+[INFO ] 2023-07-31 20:17:22.125 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 19860 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 20:17:22.134 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 20:17:22.136 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 20:17:27.018 [main] SpringApplication - Started SpringApplication in 5.365 seconds (process running for 6.976)
+[INFO ] 2023-07-31 20:21:59.101 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 10852 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 20:21:59.111 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 20:21:59.112 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 20:22:04.620 [main] SpringApplication - Started SpringApplication in 6.049 seconds (process running for 7.595)
+[INFO ] 2023-07-31 20:24:41.041 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 4168 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 20:24:41.048 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 20:24:41.050 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 20:24:45.612 [main] SpringApplication - Started SpringApplication in 5.008 seconds (process running for 6.753)
+[INFO ] 2023-07-31 20:55:45.452 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 6100 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 20:55:45.458 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 20:55:45.460 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 20:55:49.386 [main] SpringApplication - Started SpringApplication in 4.413 seconds (process running for 5.57)
+[INFO ] 2023-07-31 20:58:04.964 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 11048 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 20:58:04.972 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 20:58:04.974 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 20:58:09.414 [main] SpringApplication - Started SpringApplication in 4.924 seconds (process running for 6.1)
+[INFO ] 2023-07-31 21:20:05.371 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 2440 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 21:20:05.380 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 21:20:05.381 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 21:20:09.398 [main] SpringApplication - Started SpringApplication in 4.475 seconds (process running for 5.642)
+[INFO ] 2023-07-31 21:21:12.552 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 15632 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 21:21:12.559 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 21:21:12.561 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 21:21:16.433 [main] SpringApplication - Started SpringApplication in 4.314 seconds (process running for 5.442)
+[INFO ] 2023-07-31 21:22:45.181 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 21300 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 21:22:45.188 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 21:22:45.189 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 21:22:49.107 [main] SpringApplication - Started SpringApplication in 4.351 seconds (process running for 5.569)
+[INFO ] 2023-07-31 21:28:14.579 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 2892 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 21:28:14.586 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 21:28:14.587 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 21:28:18.407 [main] SpringApplication - Started SpringApplication in 4.239 seconds (process running for 5.412)
+[INFO ] 2023-07-31 21:28:52.835 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 16124 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 21:28:52.843 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 21:28:52.844 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 21:28:57.323 [main] SpringApplication - Started SpringApplication in 4.934 seconds (process running for 6.168)
+[INFO ] 2023-07-31 21:31:03.658 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 4188 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 21:31:03.665 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 21:31:03.667 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 21:31:07.951 [main] SpringApplication - Started SpringApplication in 4.753 seconds (process running for 5.96)
+[INFO ] 2023-07-31 22:12:58.978 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 15432 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 22:12:58.987 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 22:12:58.988 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 22:13:04.281 [main] SpringApplication - Started SpringApplication in 5.77 seconds (process running for 6.979)
+[INFO ] 2023-07-31 22:13:20.183 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 19696 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 22:13:20.193 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 22:13:20.195 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 22:13:24.255 [main] SpringApplication - Started SpringApplication in 4.613 seconds (process running for 5.912)
+[INFO ] 2023-07-31 22:37:46.058 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 14312 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 22:37:46.065 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 22:37:46.066 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 22:37:50.005 [main] SpringApplication - Started SpringApplication in 4.346 seconds (process running for 5.564)
+[INFO ] 2023-07-31 23:33:14.640 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 18896 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-07-31 23:33:14.647 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-07-31 23:33:14.648 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-31 23:33:18.475 [main] SpringApplication - Started SpringApplication in 4.245 seconds (process running for 5.329)
+[INFO ] 2023-08-01 00:02:43.139 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 17552 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-01 00:02:43.149 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 00:02:43.150 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 00:02:47.524 [main] SpringApplication - Started SpringApplication in 4.813 seconds (process running for 6.008)
+[INFO ] 2023-08-01 00:17:27.772 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 13456 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-01 00:17:27.782 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 00:17:27.783 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 00:17:31.730 [main] SpringApplication - Started SpringApplication in 4.371 seconds (process running for 5.497)
+[INFO ] 2023-08-01 00:20:20.402 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 18268 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-01 00:20:20.410 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 00:20:20.411 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 00:20:39.047 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 18736 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-01 00:20:39.057 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 00:20:39.058 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 00:20:43.146 [main] SpringApplication - Started SpringApplication in 4.507 seconds (process running for 5.671)
+[INFO ] 2023-08-01 00:22:42.426 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 11732 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-01 00:22:42.436 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 00:22:42.437 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 00:22:46.555 [main] SpringApplication - Started SpringApplication in 4.573 seconds (process running for 5.708)
+[INFO ] 2023-08-01 00:44:11.073 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 8660 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-01 00:44:11.082 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 00:44:11.084 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 00:47:55.624 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 11144 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-01 00:47:55.632 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 00:47:55.633 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 00:48:46.175 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 9536 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-01 00:48:46.183 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 00:48:46.184 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 00:51:50.859 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 21140 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-01 00:51:50.868 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 00:51:50.869 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 00:53:23.856 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 14228 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-01 00:53:23.865 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 00:53:23.866 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 00:53:28.265 [main] SpringApplication - Started SpringApplication in 4.843 seconds (process running for 6.023)
+[INFO ] 2023-08-01 01:16:52.595 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 7272 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-01 01:16:52.604 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 01:16:52.606 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 01:18:36.677 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 256 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-01 01:18:36.684 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 01:18:36.685 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 01:22:30.231 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 4676 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-01 01:22:30.240 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 01:22:30.242 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 01:22:34.333 [main] SpringApplication - Started SpringApplication in 4.536 seconds (process running for 5.66)
+[INFO ] 2023-08-01 14:39:17.113 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 5908 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-01 14:39:17.133 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 14:39:17.133 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 14:39:21.508 [main] SpringApplication - Started SpringApplication in 4.785 seconds (process running for 6.122)
+[INFO ] 2023-08-01 14:42:27.678 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 7676 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-01 14:42:27.698 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 14:42:27.702 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 14:42:31.643 [main] SpringApplication - Started SpringApplication in 4.371 seconds (process running for 5.603)
+[INFO ] 2023-08-01 16:52:26.214 [main] SpringApplication - Starting SpringApplication using Java 17.0.7 with PID 6064 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-01 16:52:26.229 [main] SpringApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 16:52:26.231 [main] SpringApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 16:52:32.195 [main] SpringApplication - Started SpringApplication in 6.54 seconds (process running for 8.438)
+[INFO ] 2023-08-01 20:54:29.616 [main] UserServiceApplication - Starting UserServiceApplication using Java 17.0.7 with PID 16712 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-01 20:54:29.632 [main] UserServiceApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 20:54:29.634 [main] UserServiceApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 20:54:35.875 [main] UserServiceApplication - Started UserServiceApplication in 6.878 seconds (process running for 8.948)

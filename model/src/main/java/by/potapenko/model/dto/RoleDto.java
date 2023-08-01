@@ -1,6 +1,6 @@
 package by.potapenko.model.dto;
 
-import by.potapenko.model.enam.UserRole;
+import by.potapenko.model.enam.Role;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -9,5 +9,5 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public class RoleDto {
-    private UserRole role;
+    private Role role;
 }

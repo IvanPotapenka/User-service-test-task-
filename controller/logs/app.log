@@ -1,0 +1,144 @@
+[INFO ] 2023-08-01 20:03:43.556 [main] UserServiceIntegretionTest - Starting UserServiceIntegretionTest using Java 17.0.7 with PID 13212 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 20:03:43.577 [main] UserServiceIntegretionTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 20:03:43.582 [main] UserServiceIntegretionTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 20:03:50.918 [main] UserServiceIntegretionTest - Started UserServiceIntegretionTest in 7.811 seconds (process running for 10.173)
+[INFO ] 2023-08-01 20:04:38.536 [main] UserServiceIntegretionTest - Starting UserServiceIntegretionTest using Java 17.0.7 with PID 15636 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 20:04:38.556 [main] UserServiceIntegretionTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 20:04:38.558 [main] UserServiceIntegretionTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 20:04:45.751 [main] UserServiceIntegretionTest - Started UserServiceIntegretionTest in 7.642 seconds (process running for 9.968)
+[INFO ] 2023-08-01 20:05:20.840 [main] UserServiceIntegretionTest - Starting UserServiceIntegretionTest using Java 17.0.7 with PID 15272 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 20:05:20.860 [main] UserServiceIntegretionTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 20:05:20.862 [main] UserServiceIntegretionTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 20:05:28.114 [main] UserServiceIntegretionTest - Started UserServiceIntegretionTest in 7.703 seconds (process running for 9.949)
+[INFO ] 2023-08-01 20:05:52.881 [main] UserServiceIntegretionTest - Starting UserServiceIntegretionTest using Java 17.0.7 with PID 17040 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 20:05:52.904 [main] UserServiceIntegretionTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 20:05:52.907 [main] UserServiceIntegretionTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 20:06:01.217 [main] UserServiceIntegretionTest - Started UserServiceIntegretionTest in 8.909 seconds (process running for 12.97)
+[INFO ] 2023-08-01 20:07:03.240 [main] UserServiceIntegretionTest - Starting UserServiceIntegretionTest using Java 17.0.7 with PID 12640 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 20:07:03.263 [main] UserServiceIntegretionTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 20:07:03.266 [main] UserServiceIntegretionTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 20:07:11.524 [main] UserServiceIntegretionTest - Started UserServiceIntegretionTest in 8.847 seconds (process running for 11.579)
+[INFO ] 2023-08-01 20:17:57.367 [main] UserServiceIntegretionTest - Starting UserServiceIntegretionTest using Java 17.0.7 with PID 16432 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 20:17:57.385 [main] UserServiceIntegretionTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 20:17:57.389 [main] UserServiceIntegretionTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 20:18:05.174 [main] UserServiceIntegretionTest - Started UserServiceIntegretionTest in 8.318 seconds (process running for 10.975)
+[INFO ] 2023-08-01 20:21:00.694 [main] UserServiceIntegretionTest - Starting UserServiceIntegretionTest using Java 17.0.7 with PID 16056 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 20:21:00.709 [main] UserServiceIntegretionTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 20:21:00.725 [main] UserServiceIntegretionTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 20:21:08.951 [main] UserServiceIntegretionTest - Started UserServiceIntegretionTest in 8.741 seconds (process running for 11.515)
+[INFO ] 2023-08-01 20:22:38.064 [main] UserServiceIntegretionTest - Starting UserServiceIntegretionTest using Java 17.0.7 with PID 13928 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 20:22:38.081 [main] UserServiceIntegretionTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 20:22:38.081 [main] UserServiceIntegretionTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 20:22:45.151 [main] UserServiceIntegretionTest - Started UserServiceIntegretionTest in 7.581 seconds (process running for 10.526)
+[INFO ] 2023-08-01 20:22:50.448 [main] UserServiceIntegretionTest - Starting UserServiceIntegretionTest using Java 17.0.7 with PID 8208 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 20:22:50.464 [main] UserServiceIntegretionTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 20:22:50.464 [main] UserServiceIntegretionTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 20:22:57.595 [main] UserServiceIntegretionTest - Started UserServiceIntegretionTest in 7.609 seconds (process running for 10.114)
+[INFO ] 2023-08-01 20:23:20.166 [main] UserServiceIntegretionTest - Starting UserServiceIntegretionTest using Java 17.0.7 with PID 16088 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 20:23:20.182 [main] UserServiceIntegretionTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 20:23:20.182 [main] UserServiceIntegretionTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 20:23:27.296 [main] UserServiceIntegretionTest - Started UserServiceIntegretionTest in 7.576 seconds (process running for 9.944)
+[INFO ] 2023-08-01 20:33:02.900 [main] UserServiceIntegretionTest - Starting UserServiceIntegretionTest using Java 17.0.7 with PID 10956 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 20:33:02.920 [main] UserServiceIntegretionTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 20:33:02.923 [main] UserServiceIntegretionTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 20:33:10.699 [main] UserServiceIntegretionTest - Started UserServiceIntegretionTest in 8.456 seconds (process running for 11.353)
+[INFO ] 2023-08-01 20:42:13.115 [main] UserServiceIntegretionTest - Starting UserServiceIntegretionTest using Java 17.0.7 with PID 2952 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 20:42:13.130 [main] UserServiceIntegretionTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 20:42:13.132 [main] UserServiceIntegretionTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 20:42:19.102 [main] UserServiceIntegretionTest - Started UserServiceIntegretionTest in 6.415 seconds (process running for 8.913)
+[INFO ] 2023-08-01 20:54:00.925 [main] UserServiceIntegretionTest - Starting UserServiceIntegretionTest using Java 17.0.7 with PID 15260 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 20:54:00.947 [main] UserServiceIntegretionTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 20:54:00.953 [main] UserServiceIntegretionTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 20:54:09.035 [main] UserServiceIntegretionTest - Started UserServiceIntegretionTest in 8.922 seconds (process running for 11.647)
+[INFO ] 2023-08-01 21:20:39.294 [main] UserControllerTest - Starting UserControllerTest using Java 17.0.7 with PID 540 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 21:20:39.309 [main] UserControllerTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 21:20:39.312 [main] UserControllerTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 21:26:03.332 [main] UserControllerTest - Starting UserControllerTest using Java 17.0.7 with PID 6548 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 21:26:03.357 [main] UserControllerTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 21:26:03.360 [main] UserControllerTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 21:26:35.859 [main] UserControllerTest - Starting UserControllerTest using Java 17.0.7 with PID 13736 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 21:26:35.888 [main] UserControllerTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 21:26:35.890 [main] UserControllerTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 21:28:14.949 [main] UserControllerTest - Starting UserControllerTest using Java 17.0.7 with PID 14796 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 21:28:14.970 [main] UserControllerTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 21:28:14.972 [main] UserControllerTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 21:32:05.432 [main] UserControllerTest - Starting UserControllerTest using Java 17.0.7 with PID 17164 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 21:32:05.447 [main] UserControllerTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 21:32:05.449 [main] UserControllerTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 21:35:29.019 [main] UserControllerTest - Starting UserControllerTest using Java 17.0.7 with PID 4496 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 21:35:29.041 [main] UserControllerTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 21:35:29.044 [main] UserControllerTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 21:36:48.667 [main] UserControllerTest - Starting UserControllerTest using Java 17.0.7 with PID 1744 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 21:36:48.687 [main] UserControllerTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 21:36:48.689 [main] UserControllerTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 21:38:14.010 [main] UserControllerTest - Starting UserControllerTest using Java 17.0.7 with PID 13592 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 21:38:14.025 [main] UserControllerTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 21:38:14.027 [main] UserControllerTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 21:40:11.367 [main] UserControllerTest - Starting UserControllerTest using Java 17.0.7 with PID 4232 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 21:40:11.400 [main] UserControllerTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 21:40:11.403 [main] UserControllerTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 21:45:38.962 [main] UserControllerTest - Starting UserControllerTest using Java 17.0.7 with PID 11432 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 21:45:38.985 [main] UserControllerTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 21:45:38.988 [main] UserControllerTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 21:45:42.239 [main] UserControllerTest - Started UserControllerTest in 3.889 seconds (process running for 6.449)
+[INFO ] 2023-08-01 21:46:37.636 [main] UserControllerTest - Starting UserControllerTest using Java 17.0.7 with PID 264 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 21:46:37.650 [main] UserControllerTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 21:46:37.652 [main] UserControllerTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 21:46:41.369 [main] UserControllerTest - Started UserControllerTest in 4.304 seconds (process running for 6.736)
+[INFO ] 2023-08-01 21:47:26.935 [main] UserControllerTest - Starting UserControllerTest using Java 17.0.7 with PID 6392 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 21:47:26.958 [main] UserControllerTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 21:47:26.963 [main] UserControllerTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 21:47:30.585 [main] UserControllerTest - Started UserControllerTest in 4.315 seconds (process running for 6.851)
+[INFO ] 2023-08-01 21:48:50.142 [main] UserControllerTest - Starting UserControllerTest using Java 17.0.7 with PID 17000 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 21:48:50.159 [main] UserControllerTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 21:48:50.161 [main] UserControllerTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 21:48:54.496 [main] UserControllerTest - Started UserControllerTest in 5.061 seconds (process running for 7.871)
+[INFO ] 2023-08-01 21:49:11.279 [main] UserControllerTest - Starting UserControllerTest using Java 17.0.7 with PID 16028 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 21:49:11.302 [main] UserControllerTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 21:49:11.304 [main] UserControllerTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 21:49:15.817 [main] UserControllerTest - Started UserControllerTest in 5.247 seconds (process running for 8.029)
+[INFO ] 2023-08-01 21:51:00.542 [main] UserControllerTest - Starting UserControllerTest using Java 17.0.7 with PID 15796 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 21:51:00.561 [main] UserControllerTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 21:51:00.563 [main] UserControllerTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 21:51:03.965 [main] UserControllerTest - Started UserControllerTest in 4.011 seconds (process running for 6.167)
+[INFO ] 2023-08-01 21:51:04.528 [main] UserServiceIntegretionTest - Starting UserServiceIntegretionTest using Java 17.0.7 with PID 15796 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 21:51:04.530 [main] UserServiceIntegretionTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 21:51:04.531 [main] UserServiceIntegretionTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 21:51:51.067 [main] UserControllerTest - Starting UserControllerTest using Java 17.0.7 with PID 8588 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 21:51:51.082 [main] UserControllerTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 21:51:51.084 [main] UserControllerTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 21:51:54.527 [main] UserControllerTest - Started UserControllerTest in 4.027 seconds (process running for 6.008)
+[INFO ] 2023-08-01 21:51:55.114 [main] UserServiceIntegretionTest - Starting UserServiceIntegretionTest using Java 17.0.7 with PID 8588 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 21:51:55.115 [main] UserServiceIntegretionTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 21:51:55.116 [main] UserServiceIntegretionTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 21:52:46.211 [main] UserControllerTest - Starting UserControllerTest using Java 17.0.7 with PID 11800 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 21:52:46.235 [main] UserControllerTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 21:52:46.237 [main] UserControllerTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 21:52:49.791 [main] UserControllerTest - Started UserControllerTest in 4.209 seconds (process running for 6.925)
+[INFO ] 2023-08-01 21:53:12.531 [main] UserControllerTest - Starting UserControllerTest using Java 17.0.7 with PID 15260 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 21:53:12.554 [main] UserControllerTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 21:53:12.556 [main] UserControllerTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 21:53:16.041 [main] UserControllerTest - Started UserControllerTest in 4.093 seconds (process running for 6.223)
+[INFO ] 2023-08-01 21:53:16.612 [main] UserServiceIntegretionTest - Starting UserServiceIntegretionTest using Java 17.0.7 with PID 15260 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 21:53:16.614 [main] UserServiceIntegretionTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 21:53:16.614 [main] UserServiceIntegretionTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 21:53:34.542 [main] UserServiceIntegretionTest - Starting UserServiceIntegretionTest using Java 17.0.7 with PID 13212 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 21:53:34.560 [main] UserServiceIntegretionTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 21:53:34.563 [main] UserServiceIntegretionTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 21:54:06.320 [main] UserServiceIntegretionTest - Starting UserServiceIntegretionTest using Java 17.0.7 with PID 3912 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 21:54:06.340 [main] UserServiceIntegretionTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 21:54:06.342 [main] UserServiceIntegretionTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 21:54:13.718 [main] UserServiceIntegretionTest - Started UserServiceIntegretionTest in 7.858 seconds (process running for 10.202)
+[INFO ] 2023-08-01 21:54:38.893 [main] UserControllerTest - Starting UserControllerTest using Java 17.0.7 with PID 16748 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 21:54:38.923 [main] UserControllerTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 21:54:38.925 [main] UserControllerTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 21:55:21.163 [main] UserControllerTest - Starting UserControllerTest using Java 17.0.7 with PID 17084 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 21:55:21.182 [main] UserControllerTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 21:55:21.184 [main] UserControllerTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 21:56:46.188 [main] UserServiceIntegretionTest - Starting UserServiceIntegretionTest using Java 17.0.7 with PID 7012 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 21:56:46.206 [main] UserServiceIntegretionTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 21:56:46.208 [main] UserServiceIntegretionTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 21:58:27.764 [main] UserServiceIntegretionTest - Starting UserServiceIntegretionTest using Java 17.0.7 with PID 6356 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-01 21:58:27.780 [main] UserServiceIntegretionTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-01 21:58:27.783 [main] UserServiceIntegretionTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-01 21:58:34.507 [main] UserServiceIntegretionTest - Started UserServiceIntegretionTest in 7.156 seconds (process running for 9.169)
