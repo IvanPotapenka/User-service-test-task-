@@ -1,0 +1,59 @@
+[INFO ] 2023-08-03 22:12:20.346 [main] UserServiceApplication - Starting UserServiceApplication using Java 19.0.2 with PID 20828 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-03 22:12:20.363 [main] UserServiceApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-03 22:12:20.365 [main] UserServiceApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-03 22:12:29.160 [main] UserServiceApplication - Started UserServiceApplication in 9.547 seconds (process running for 12.035)
+[INFO ] 2023-08-03 22:14:07.494 [main] UserServiceApplication - Starting UserServiceApplication using Java 19.0.2 with PID 14480 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-03 22:14:07.494 [main] UserServiceApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-03 22:14:07.494 [main] UserServiceApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-03 22:14:12.605 [main] UserServiceApplication - Started UserServiceApplication in 5.585 seconds (process running for 7.381)
+[INFO ] 2023-08-03 23:22:55.375 [main] UserServiceApplication - Starting UserServiceApplication using Java 19.0.2 with PID 15072 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-03 23:22:55.390 [main] UserServiceApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-03 23:22:55.390 [main] UserServiceApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-03 23:22:57.789 [main] UserServiceApplication - Starting UserServiceApplication using Java 19.0.2 with PID 16728 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-03 23:22:57.790 [main] UserServiceApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-03 23:22:57.790 [main] UserServiceApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-03 23:23:03.828 [main] UserServiceApplication - Started UserServiceApplication in 6.57 seconds (process running for 8.687)
+[INFO ] 2023-08-03 23:23:17.613 [main] UserServiceApplication - Starting UserServiceApplication using Java 19.0.2 with PID 13516 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-03 23:23:17.628 [main] UserServiceApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-03 23:23:17.628 [main] UserServiceApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-03 23:23:22.607 [main] UserServiceApplication - Started UserServiceApplication in 5.46 seconds (process running for 7.386)
+[INFO ] 2023-08-03 23:27:42.450 [main] UserServiceApplication - Starting UserServiceApplication using Java 19.0.2 with PID 3436 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-03 23:27:42.466 [main] UserServiceApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-03 23:27:42.466 [main] UserServiceApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-03 23:27:47.523 [main] UserServiceApplication - Started UserServiceApplication in 5.551 seconds (process running for 7.284)
+[INFO ] 2023-08-03 23:28:43.620 [main] UserServiceApplication - Starting UserServiceApplication using Java 19.0.2 with PID 21436 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-03 23:28:43.636 [main] UserServiceApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-03 23:28:43.636 [main] UserServiceApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-03 23:28:48.613 [main] UserServiceApplication - Started UserServiceApplication in 5.445 seconds (process running for 7.214)
+[INFO ] 2023-08-03 23:32:50.674 [main] UserServiceApplication - Starting UserServiceApplication using Java 19.0.2 with PID 14736 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-03 23:32:50.689 [main] UserServiceApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-03 23:32:50.689 [main] UserServiceApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-03 23:32:55.648 [main] UserServiceApplication - Started UserServiceApplication in 5.454 seconds (process running for 7.082)
+[INFO ] 2023-08-03 23:40:39.462 [main] UserServiceApplication - Starting UserServiceApplication using Java 19.0.2 with PID 5196 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-03 23:40:39.462 [main] UserServiceApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-03 23:40:39.462 [main] UserServiceApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-03 23:40:45.085 [main] UserServiceApplication - Started UserServiceApplication in 6.267 seconds (process running for 8.061)
+[INFO ] 2023-08-03 23:42:39.794 [main] UserServiceApplication - Starting UserServiceApplication using Java 19.0.2 with PID 3032 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-03 23:42:39.810 [main] UserServiceApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-03 23:42:39.810 [main] UserServiceApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-03 23:42:46.053 [main] UserServiceApplication - Started UserServiceApplication in 6.702 seconds (process running for 8.594)
+[INFO ] 2023-08-03 23:44:52.105 [main] UserServiceApplication - Starting UserServiceApplication using Java 19.0.2 with PID 4360 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-03 23:44:52.105 [main] UserServiceApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-03 23:44:52.120 [main] UserServiceApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-03 23:44:57.105 [main] UserServiceApplication - Started UserServiceApplication in 5.443 seconds (process running for 7.206)
+[INFO ] 2023-08-03 23:48:44.021 [main] UserServiceApplication - Starting UserServiceApplication using Java 19.0.2 with PID 9976 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-03 23:48:44.037 [main] UserServiceApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-03 23:48:44.037 [main] UserServiceApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-03 23:48:49.004 [main] UserServiceApplication - Started UserServiceApplication in 5.42 seconds (process running for 7.271)
+[INFO ] 2023-08-03 23:56:27.775 [main] UserServiceApplication - Starting UserServiceApplication using Java 19.0.2 with PID 17296 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-03 23:56:27.775 [main] UserServiceApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-03 23:56:27.775 [main] UserServiceApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-03 23:56:32.795 [main] UserServiceApplication - Started UserServiceApplication in 5.472 seconds (process running for 7.175)
+[INFO ] 2023-08-03 23:58:28.382 [main] UserServiceApplication - Starting UserServiceApplication using Java 19.0.2 with PID 13704 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-03 23:58:28.382 [main] UserServiceApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-03 23:58:28.398 [main] UserServiceApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-03 23:58:34.150 [main] UserServiceApplication - Started UserServiceApplication in 6.221 seconds (process running for 8.048)
+[INFO ] 2023-08-04 00:19:53.773 [main] UserServiceApplication - Starting UserServiceApplication using Java 19.0.2 with PID 7576 (C:\Users\Professional\Downloads\User-service\controller\target\classes started by Professional in C:\Users\Professional\Downloads\User-service)
+[DEBUG] 2023-08-04 00:19:53.783 [main] UserServiceApplication - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-04 00:19:53.784 [main] UserServiceApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-04 00:19:59.131 [main] UserServiceApplication - Started UserServiceApplication in 5.872 seconds (process running for 7.586)
