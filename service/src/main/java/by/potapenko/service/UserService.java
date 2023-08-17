@@ -48,11 +48,16 @@ public class UserService {
                 .orElseThrow(UserNotFoundException::new));
     }
 
+    @Transactional
     public Optional<UserDto> update(Long id, UserCreationDto update) {
         Optional<UserEntity> existUser = userRepository.findById(id);
         if (existUser.isPresent()) {
             UserEntity user = existUser.get();
-            modelMapper.map(update, user);
+            List<RoleEntity> roles = new ArrayList<>();
+            update.getRoles().forEach(roleDto ->
+                    roleRepository.findAllByRole(Role.valueOf(roleDto.getRole().name()))
+                            .ifPresent(roles::add));
+            user.addRole(roles);
             return Optional.of(convertToUserDto(userRepository.save(user)));
         }
         return Optional.empty();

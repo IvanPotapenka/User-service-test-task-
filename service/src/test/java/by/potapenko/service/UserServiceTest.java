@@ -1,6 +1,10 @@
 package by.potapenko.service;
 
+import by.potapenko.model.dto.RoleDto;
+import by.potapenko.model.dto.UserCreationDto;
 import by.potapenko.model.dto.UserDto;
+import by.potapenko.model.enam.Role;
+import by.potapenko.model.entity.RoleEntity;
 import by.potapenko.model.entity.UserEntity;
 import by.potapenko.model.repository.RoleRepository;
 import by.potapenko.model.repository.UserRepository;
@@ -27,13 +31,16 @@ class UserServiceTest {
     private UserRepository userRepository;
     @Mock
     private RoleRepository roleRepository;
+
+    private static final ModelMapper modelMapper = new ModelMapper();
+    ;
     @InjectMocks
     private UserService userService;
 
     @BeforeEach
     void init() {
         userService = new UserService(userRepository,
-                roleRepository, new ModelMapper());
+                roleRepository, modelMapper);
     }
 
     @Test
@@ -53,6 +60,45 @@ class UserServiceTest {
         Assertions.assertThat(expected).containsExactlyInAnyOrder(kiraUser.getEmail(), ivanUser.getEmail());
     }
 
+    @Test
+    void whenCreatedInvokedWithUser_ThenUserIsSaved() {
+        when(userRepository.findAll()).thenReturn(List.of(modelMapper.map(userTest, UserEntity.class)));
+        when(roleRepository.findAllByRole(Role.SALE)).thenReturn(Optional.of(sale));
+        when(userRepository.save(modelMapper.map(userTest, UserEntity.class)))
+                .thenReturn(modelMapper.map(userTest, UserEntity.class));
+
+        userService.create(userTest);
+        List<String> allUserEmail = userRepository.findAll().stream()
+                .map(UserEntity::getEmail)
+                .toList();
+        Assertions.assertThat(allUserEmail).contains(userTest.getEmail());
+    }
+
+    @Test
+    void whenUpdateById_ThenSavedUserUpdate() {
+        when(userRepository.findById(anyLong())).thenReturn(Optional.of(ivanUser));
+        when(roleRepository.findAllByRole(Role.SALE)).thenReturn(Optional.of(sale));
+        when(userRepository.save(ivanUser)).thenReturn(ivanUser);
+
+        ivanUser.getRoles().add(sale);
+        userService.update(anyLong(), modelMapper.map(ivanUser, UserCreationDto.class));
+        Assertions.assertThat(ivanUser.getRoles()).contains(sale);
+    }
+
+    private UserCreationDto userTest = UserCreationDto.builder()
+            .firstName("Ivan")
+            .surName("Potapenko")
+            .middleName("Uryevich")
+            .email("kira@mail.ru")
+            .roles(List.of(saleRole))
+            .build();
+
+    private static final RoleDto saleRole = RoleDto.builder()
+            .role(Role.SALE)
+            .build();
+    private static final RoleEntity sale = RoleEntity.builder()
+            .role(Role.SALE)
+            .build();
     private UserEntity ivanUser = UserEntity.builder()
             .firstName("Ivan")
             .surName("Potapenko")

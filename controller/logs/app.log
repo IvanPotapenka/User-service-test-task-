@@ -142,3 +142,11 @@
 [DEBUG] 2023-08-01 21:58:27.780 [main] UserServiceIntegretionTest - Running with Spring Boot v3.1.2, Spring v6.0.11
 [INFO ] 2023-08-01 21:58:27.783 [main] UserServiceIntegretionTest - No active profile set, falling back to 1 default profile: "default"
 [INFO ] 2023-08-01 21:58:34.507 [main] UserServiceIntegretionTest - Started UserServiceIntegretionTest in 7.156 seconds (process running for 9.169)
+[INFO ] 2023-08-04 01:01:44.750 [main] UserServiceIntegretionTest - Starting UserServiceIntegretionTest using Java 19.0.2 with PID 9648 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-04 01:01:44.765 [main] UserServiceIntegretionTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-04 01:01:44.767 [main] UserServiceIntegretionTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-04 01:01:52.231 [main] UserServiceIntegretionTest - Started UserServiceIntegretionTest in 7.995 seconds (process running for 10.504)
+[INFO ] 2023-08-04 01:02:18.582 [main] UserServiceIntegretionTest - Starting UserServiceIntegretionTest using Java 19.0.2 with PID 16784 (started by Professional in C:\Users\Professional\Downloads\User-service\controller)
+[DEBUG] 2023-08-04 01:02:18.599 [main] UserServiceIntegretionTest - Running with Spring Boot v3.1.2, Spring v6.0.11
+[INFO ] 2023-08-04 01:02:18.601 [main] UserServiceIntegretionTest - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-04 01:02:25.465 [main] UserServiceIntegretionTest - Started UserServiceIntegretionTest in 7.353 seconds (process running for 9.595)
